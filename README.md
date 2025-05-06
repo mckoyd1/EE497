@@ -1,1 +1,1 @@
-All files are formatted in micropython/Blockly and must be uploaded to https://flow.m5stack.com/
+All source codes are formatted in micropython/Blockly and must be uploaded to https://flow.m5stack.com/
